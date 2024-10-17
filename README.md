@@ -1,4 +1,4 @@
-# Hi there, I'm  - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm  - Fazya 👋
 ## About me:
 - 🔭 I’m currently a third-year Computer Engineering student
 - 🌱 I’m currently learning PHP and Javascript 
