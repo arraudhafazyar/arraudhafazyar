@@ -1,10 +1,8 @@
 # Hi there, I'm  - Fazya 👋
 ## About me:
-- 🔭 I’m currently a third-year Computer Engineering student
-- 🌱 I’m currently learning PHP and Javascript 
+- 🔭 I’m currently a final Computer Engineering student
+- 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate as Website developer or Hardware system design
-- 🤔 I’m looking for suggest for computer organization and architecture internship
-- 💬 Ask me about anything
 - 📫 How to reach me: fazyarama@gmail.com
 
 ## Education:
@@ -13,9 +11,6 @@
    - Asistant Laboratorium of organization and architecture computer 
    - HRD of Penalaran student activity unit
    - Treasurer of external department of BEM KM FTI 2023 
- #### 2. [SMA N 4 Batam](https://sman4-batam.sch.id/) | MIPA | Batam `2018-2021`
-   - Head division of Peer Youth Education, Juvenile Red Cross
-   - Vice President of Finance division on Ecoware Stucent Company
 
 ### Languages and Tools:
 
@@ -31,16 +26,7 @@
 
 ---
 ### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arraudhafazyaramadhani/-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arraudhafazyaramadhani/-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
 
